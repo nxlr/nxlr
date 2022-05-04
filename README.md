@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxlr&count_private=true&show_icons=true&hide=issues,prs&layout=compact&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-| ------------- | ------------- |
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> | 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nxlr&count_private=true&show_icons=true&hide=issues,prs&layout=compact&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nxlr&count_private=true&show_icons=true&hide=issues,prs&layout=compact&include_all_commits=true&hide_border=true&theme=chartreuse-dark" alt="Anurag's github stats" /></a> |
 
 
 <!--
