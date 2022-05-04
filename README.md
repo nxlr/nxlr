@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=chartreuse-dark&hide_border=true" />|<a href="https://nxlr.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxlr&repo=nxlr.github.io&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</a>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=chartreuse-dark&hide_border=true" />|<a href="https://nxlr.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxlr&repo=nxlr.github.io&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>|
 |:----------:|:-------------:|
 
 
