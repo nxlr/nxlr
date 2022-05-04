@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-| :--: | :--: |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) |
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxlr&count_private=true&show_icons=true&hide=issues,prs&layout=compact&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxlr&count_private=true&show_icons=true&hide=issues,prs&layout=compact&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=buefy&hide_border=true" /></a> | 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nxlr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |
+| ------------- | ------------- |
 
 <!--
 **nxlr/nxlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
