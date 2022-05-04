@@ -2,11 +2,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxlr&layout=compact&theme=chartreuse-dark&hide_border=true" /> |
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nxlr&count_private=true&show_icons=true&hide=issues,prs&layout=compact&include_all_commits=true&hide_border=true&theme=chartreuse-dark" alt="Anurag's github stats" />
-
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+|---|---|
+|:----------:|:-------------:|
 
 <a href="https://nxlr.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxlr&repo=nxlr.github.io&theme=chartreuse-dark" />
